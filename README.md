@@ -94,4 +94,9 @@ char str[3] = "abc";    // ❌ Invalid (no space for \0)
 
 Let me know if you want the notes exported as a PDF or markdown file!
 
-# 7th-Sem-traning-SISTEC
+
+
+I've expanded the section on char and string usage with detailed explanations and examples, especially focusing on how much data can be stored when the array size is 5.
+
+Let me know if you'd like a visual diagram, export to PDF/Markdown, or examples with pointers and char *str.
+
